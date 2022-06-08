@@ -1,9 +1,11 @@
 <div align="right">
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGAN-ji&count_bg=%23A6D2FE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://modulabs.co.kr/">![](https://img.shields.io/badge/-MODULABS-white)</a>
 <a href="https://github.com/mybloodykeyboard">![](https://img.shields.io/static/v1?label=😃&message=박정우&color=blueviolet)</a>
 <a href="https://github.com/kim-seo-hyun">![](https://img.shields.io/static/v1?label=😎&message=김서현&color=ff69b4)</a>
 <a href="https://github.com/paulcho98">![](https://img.shields.io/static/v1?label=😗&message=조현빈&color=brightgreen)</a>
+
 </div>
 
 ## `Introduction`
@@ -11,7 +13,7 @@
 <p align='center'><img src='https://github.com/GAN-ji/GAN-ji/raw/main/asset/streamlit_final.gif?raw=1' width = '900' ></p>
 
 - 2022.04.25 ~ 2022.06.10
-- 소속: Aiffel 양재캠퍼스
+- 소속: Aiffel YJ
 - Team: GAN-ji
 - 팀장: 박정우, 팀원: 김서현, 조현빈
 - 유례가 없는 팬데믹으로 인한 디지털 가속화, 국내 7000억 규모의 이모티콘 시장에서 이모지가 디지털 미디어를 통한 소통에 아주 중요한 역할을 한다. 하지만 제한된 종류로 의사소통의 한계가 명확하다는 점, 개인을 위한 맞춤 이모티콘 서비스의 부재, 그리고 궁금증과 흥미 등의 이유로 GAN을 이용한 맞춤 이모티콘 생성 서비스 배포를 팀 프로젝트로 진행하였다.
