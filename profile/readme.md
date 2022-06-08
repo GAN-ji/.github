@@ -58,7 +58,7 @@ Closed Form Factorization은 비지도 학습을 통해 Latent Space에서 의�
 <p align='center'> 
   <img src='https://github.com/GAN-ji/GAN-ji/raw/main/asset/emojify.gif? width='100' height='100'>
   <img src='https://github.com/GAN-ji/GAN-ji/raw/main/asset/emojify(2).gif? width='100' height='100'>
-  <img src='https://github.com/GAN-ji/GAN-ji/raw/main/asset/emojify(3).gif?% width='100' height='100'>
+  <img src='https://github.com/GAN-ji/GAN-ji/raw/main/asset/emojify(3).gif? width='100' height='100'>
 </p align='center'>
 <p align='center'><b> generated ffhq to emoji </b></p>
                   
