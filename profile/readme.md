@@ -8,6 +8,16 @@
 
 </div>
 
+<br>
+<br>
+<br>
+
+<h2 align= 'center'> 👉 http://35.222.185.46:8501 👈 </h2>
+
+<br>
+<br>
+<br>
+
 ## `Introduction`
 <p align='center'><b> ✨ Inference using Streamlit ✨</b></p> 
 <p align='center'><img src='https://github.com/GAN-ji/GAN-ji/raw/main/asset/streamlit_final.gif?raw=1' width = '900' ></p>
